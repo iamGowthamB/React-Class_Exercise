@@ -24,4 +24,4 @@ function ce2 (){
         </div>
     )
 }
-export dault ce2;
+export default ce2;
